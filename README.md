@@ -36,12 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Sanjeeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjeeth2311&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeeth2311&layout=compact&theme=tokyonight)  
-
----
-
 ## 🌐 Connect With Me
 - 📧 Email: **sanjeethsomu2004@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/sanjeeth-s](#) *(add your link here)*  
