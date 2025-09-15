@@ -2,8 +2,7 @@
 
 🎓 **Electronics and Communication Engineering (ECE) Student** at Velalar College of Engineering and Technology  
 💡 Passionate about **PCB Design, Embedded Systems, and IoT Projects**  
-🔧 Hands-on experience with **Arduino, ESP32, ESP8266, nRF24L01, GPS, Sensors, and Circuit Simulation**  
-📍 Currently in my 6th semester, exploring **CMOS VLSI Design and Advanced Embedded Projects**  
+🔧 Hands-on experience with **Arduino, ESP32, ESP8266, nRF24L01, GPS, Sensors, and Circuit Simulation** 
 
 ---
 
