@@ -20,7 +20,7 @@
 
 ## 🛠️ Tech Stack
 **Languages & Tools:**  
-- 🖥️ C, Python (Data Structures), Embedded C  
+- 🖥️ C, Python, Embedded C  
 - 🛠️ Arduino IDE, PlatformIO, KiCad, Proteus, Wokwi  
 - 🔌 IoT: ESP32, ESP8266, Arduino Cloud, nRF24L01  
 - ⚡ Sensors: DHT11, MAX30100, PIR, GPS, DS18B20, MQ2  
