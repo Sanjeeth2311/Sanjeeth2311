@@ -15,11 +15,6 @@
 
 ## 🚀 About Me  
 - 🖥️ Skilled in **PCB Designing** (KiCad, Proteus) & **Circuit Analysis**  
-- 📡 Projects include:  
-  - ✅ Ultrasonic sensor with ESP32 + OLED  
-  - ✅ PIR sensor-based motion detection (buzzer + LED)  
-  - ✅ Servo motor control with potentiometer (Arduino + Wokwi)  
-  - ✅ Animal health monitoring & tracking system with IoT Dashboard  
 - 🔨 Practical experience in **PC Building, CCTV Installation, Hardware Troubleshooting**  
 - 🎯 Active in **NCC Training, Internships, Technical Symposiums**  
 
