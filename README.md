@@ -7,9 +7,9 @@
 ---
 
 ## 🌟 Daily Inspiration  
-<!--STARTS_HERE_QUOTE_README-->
-<i>“Loading daily quote...”</i>  
-<!--ENDS_HERE_QUOTE_README-->
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 ---
 
