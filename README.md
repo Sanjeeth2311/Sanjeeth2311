@@ -6,6 +6,13 @@
 
 ---
 
+## 🌟 Daily Inspiration  
+<!--STARTS_HERE_QUOTE_README-->
+<i>“Loading daily quote...”</i>  
+<!--ENDS_HERE_QUOTE_README-->
+
+---
+
 ## 🚀 About Me  
 - 🖥️ Skilled in **PCB Designing** (KiCad, Proteus) & **Circuit Analysis**  
 - 📡 Projects include:  
@@ -38,11 +45,6 @@
 ![Arduino Cloud](https://img.shields.io/badge/Arduino_Cloud-00979D?style=flat&logo=arduino&logoColor=white)  
 ![nRF24L01](https://img.shields.io/badge/nRF24L01-Wireless-FF4500?style=flat)  
 
-### 🔌 Sensors  
-DHT11 | MAX30100 | PIR | GPS | DS18B20 | MQ2  
-
----
-
 ## 📂 Featured Projects  
 - 🔹 [ESP32 PIR Sensor Project](https://github.com/Sanjeeth2311/esp32-projects/blob/main/Human%20detection%20using%20pir%20sensor) – Motion detection with real-time alerts  
 - 🔹 Custom **ESP32 PCB Design** & **ATtiny85 USB Panel**  
@@ -52,10 +54,9 @@ DHT11 | MAX30100 | PIR | GPS | DS18B20 | MQ2
 ---
 
 ## 🏆 Achievements & Highlights  
-- 🥇 Presented paper *“AI in Personalized Learning”* at **National Symposium ELIXIR 2024**  
+
 - 🎖️ NCC Cadet – Pursuing *B Certificate* (Discipline, Leadership, Teamwork)  
 - 🔧 Built custom PCs & designed multiple **sensor-based PCBs**  
-- 🎓 Completed Cisco’s *Computer Hardware Basics* certification  
 
 ---
 
