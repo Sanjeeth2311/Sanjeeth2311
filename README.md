@@ -6,10 +6,14 @@
 
 ---
 
-## 🌟 Daily Inspiration  
+## ⚡ Electronics & Hardware Inspiration  
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!--START_QUOTE-->
+> “Electronics is the art of controlling electrons.”  
+— Unknown
+<!--END_QUOTE-->
 
+✨ A new electronics/hardware quote appears here every day!
 
 ---
 
