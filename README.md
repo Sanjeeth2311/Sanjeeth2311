@@ -47,9 +47,8 @@
 
 ## 📂 Featured Projects  
 
-- 🔹 Custom **ESP32 PCB Design** & **ATtiny85 USB Panel**  
 - 🔹 [Animal Health Monitoring & Tracking System](#) *(in progress)* – GPS, Temperature, Heartbeat data on IoT dashboard  
-- 🔹 PCB Designs: **Voltage Doubler, Half Adder, Multivibrators, IR Sensor**  
+- 🔹 [PCB Designs Collection](https://github.com/Sanjeeth2311/PCB_DESIGN.git) – Includes **Voltage Doubler, Half Adder, Multivibrators, IR Sensor**  
 
 ---
 
