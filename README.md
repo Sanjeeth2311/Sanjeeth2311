@@ -46,7 +46,7 @@
 ![nRF24L01](https://img.shields.io/badge/nRF24L01-Wireless-FF4500?style=flat)  
 
 ## 📂 Featured Projects  
-- 🔹 [ESP32 PIR Sensor Project](https://github.com/Sanjeeth2311/esp32-projects/blob/main/Human%20detection%20using%20pir%20sensor) – Motion detection with real-time alerts  
+
 - 🔹 Custom **ESP32 PCB Design** & **ATtiny85 USB Panel**  
 - 🔹 [Animal Health Monitoring & Tracking System](#) *(in progress)* – GPS, Temperature, Heartbeat data on IoT dashboard  
 - 🔹 PCB Designs: **Voltage Doubler, Half Adder, Multivibrators, IR Sensor**  
