@@ -8,12 +8,9 @@
 
 ## ⚡ Electronics & Hardware Inspiration  
 
-<!--START_QUOTE-->
-> “Electronics is the art of controlling electrons.”  
-— Unknown
-<!--END_QUOTE-->
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteCategory=technology)
 
-✨ A new electronics/hardware quote appears here every day!
+✨ A new **electronics/hardware related quote** appears here every day!
 
 ---
 
